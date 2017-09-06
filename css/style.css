@@ -1,0 +1,7 @@
+button::focus {
+  text-decoration: inherit;
+}
+
+.ui-dialog-titlebar-close {
+  visibility: hidden;
+}
